@@ -177,7 +177,7 @@ export default function UserProfile() {
       useGlobalStore.getState().logout();
       toast({
         title: "Account Deleted",
-        description: "Account deleted, you are be logged out.",
+        description: "Account deleted, you are logged out from the system.",
       });
     },
     onError: () => {
@@ -250,7 +250,7 @@ export default function UserProfile() {
               <CardHeader>
                 <CardTitle>Delete My Account</CardTitle>
                 <CardDescription>
-                  Please be aware that deleting account CAN'T BE UNDONE.
+                  Please be aware that deleting account CANNOT BE UNDONE.
                 </CardDescription>
               </CardHeader>
               <CardFooter className="border-t px-6 py-4">

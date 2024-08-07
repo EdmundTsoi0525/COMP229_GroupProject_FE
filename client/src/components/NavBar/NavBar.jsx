@@ -92,7 +92,7 @@ function NavBar() {
               Home
             </NavBarButton>
             <NavBarButton href={"/team"} pattern={"/team"}>
-              Team
+              Meet Our Team
             </NavBarButton>
           </nav>
         </div>

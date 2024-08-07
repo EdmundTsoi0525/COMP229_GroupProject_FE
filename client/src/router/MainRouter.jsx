@@ -16,8 +16,6 @@ function MainRouter() {
         <Route path="/team" element={<Team/>} />
         <Route path="/login" element={<Login/>} />
         <Route path="/user-profile" element={<UserProfile/>} />
-        {/* todo */}
-        {/* <Route path="/account" element={<Account/>} /> */}
       </Routes>
       <Footer/>
     </div>

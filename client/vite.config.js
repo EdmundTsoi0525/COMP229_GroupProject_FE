@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { resolve } from 'path';
-const PORT = 5000
+// const PORT = 5000
 const TARGET_LINK = "https://comp229-groupproject-be.onrender.com"
 
 // https://vitejs.dev/config/

@@ -11,37 +11,37 @@ const teams = [
   {
     title: "Winson Li",
     description: "aka \"Sonic\"",
-    content: "Frontend Developer, UI Desginer",
+    content: "Frontend Developer, UI Designer",
     footer: "cli245@my.centennialcollege.ca",
   },
   {
     title: "Hong To",
     description: " ",
-    content: "I go to school by bus 2",
+    content: "Developer",
     footer: "yto3@my.centennialcollege.ca",
   },
   {
     title: "Edmund Tsoi",
     description: " ",
-    content: "I go to school by bus 3",
+    content: "Project Presenter",
     footer: "htsoi@my.centennialcollege.ca",
   },
   {
     title: "Lin, Chia Yi",
     description: " ",
-    content: "I go to school by bus 4",
+    content: "Project Designer",
     footer: "clin122@my.centennialcollege.ca",
   },
   {
     title: "Shih, Feng-Ming",
     description: " ",
-    content: "I go to school by bus 5",
+    content: "Project Designer",
     footer: "fshih@my.centennialcollege.ca",
   },
   {
     title: "Pandit, Sambriddhi",
     description: " ",
-    content: "I go to school by bus 6",
+    content: "Project Designer, Presenter",
     footer: "spandi11@my.centennialcollege.ca",
   },
 ];
