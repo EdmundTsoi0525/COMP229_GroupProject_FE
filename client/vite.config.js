@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { resolve } from 'path';
-const PORT = 5000
+const PORT = 10000
 
 // https://vitejs.dev/config/
 export default defineConfig({
