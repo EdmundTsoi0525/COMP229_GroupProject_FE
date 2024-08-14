@@ -91,6 +91,12 @@ function NavBar() {
             <NavBarButton href={"/"} pattern={"/"}>
               Home
             </NavBarButton>
+            <NavBarButton href={"/survey"} pattern={"/survey"}>
+              Survey
+            </NavBarButton>
+            <NavBarButton href={"/result"} pattern={"/result"}>
+              Result
+            </NavBarButton>
             <NavBarButton href={"/team"} pattern={"/team"}>
               Meet Our Team
             </NavBarButton>
